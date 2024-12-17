@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+nakedSiteList_package/__init__.py
+nakedSiteList_package/nakedSiteListFunctions.py
+nakedSiteList_package.egg-info/PKG-INFO
+nakedSiteList_package.egg-info/SOURCES.txt
+nakedSiteList_package.egg-info/dependency_links.txt
+nakedSiteList_package.egg-info/top_level.txt
